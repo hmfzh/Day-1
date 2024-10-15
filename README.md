@@ -26,4 +26,5 @@ Tampilan
 https://github.com/hmfzh/Day-1/tree/8bc7d74991b484c90d275dc967aa6e6d1e5ae9f6/Task_Creating_Card
 
 ## Website
-hmfzh-day1.netlify.app
+[hmfzh-day1.netlify.app](https://hmfzh-day1.netlify.app)
+
